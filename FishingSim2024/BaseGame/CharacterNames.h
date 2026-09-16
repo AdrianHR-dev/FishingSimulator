@@ -1,0 +1,4 @@
+#pragma once
+
+
+enum CharacterName {NONAME, TEST, DAN, BARTENDER, NAT, ENZO, SOCKS, DRUNKARD, FISHERMAN, BARFLY, MORTY};

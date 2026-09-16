@@ -1,0 +1,698 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="BaseClasses">
+      <UniqueIdentifier>{83ddf98e-249c-4d86-aa5c-72f3a7f43a44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters">
+      <UniqueIdentifier>{0cdb9054-7af2-4091-92b5-1c3f44500608}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\TestCharacter">
+      <UniqueIdentifier>{101cac51-dc8c-44ad-a638-07b20192893e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scenes">
+      <UniqueIdentifier>{a0fb9e50-f27b-467b-ac3e-300cec6a34b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue">
+      <UniqueIdentifier>{a7c750dc-ed4c-4952-82cd-fd8637a3862d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters">
+      <UniqueIdentifier>{e282db82-c940-4df8-8d13-dc7dc4ac15a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Items">
+      <UniqueIdentifier>{f9ea936a-858d-4f37-8120-10169fe84c9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Items">
+      <UniqueIdentifier>{6e225e22-dae9-4df1-b318-1a27ead106f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Items\Shoe">
+      <UniqueIdentifier>{7239001c-cc7d-4023-82a4-570afc5ce271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Test">
+      <UniqueIdentifier>{3ba5ac18-05fa-453b-beaa-d7dae2056d30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Dan">
+      <UniqueIdentifier>{630ece10-2337-42dd-9d59-b02f202d0c20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Dan">
+      <UniqueIdentifier>{0d3ddd2a-2401-4850-b513-eeee74216b4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Bartender">
+      <UniqueIdentifier>{06eed341-e718-4f52-9fa5-13068f794c75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Bartender">
+      <UniqueIdentifier>{7a470835-561a-45fd-82c2-dc2122b812a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Drunkard">
+      <UniqueIdentifier>{319c0b81-752e-4952-b9d0-0c50b8c44db0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Drunkard">
+      <UniqueIdentifier>{1cf0130a-3d13-47ef-8803-8a3576863184}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Items\Supermarket">
+      <UniqueIdentifier>{7d39d51c-bbe6-4da3-8fa1-7c76cdd859c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Nat">
+      <UniqueIdentifier>{e55184e4-50bc-4914-b913-ae0cc83ea16b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Nat">
+      <UniqueIdentifier>{db48307a-1ec5-409f-b8d5-8e7f7604962f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Socks">
+      <UniqueIdentifier>{e58c015f-2e13-43ab-ac56-2e176047573a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Enzo">
+      <UniqueIdentifier>{cb6dd2be-30aa-433a-8259-97723bfb272c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Enzo">
+      <UniqueIdentifier>{832c32b4-25b3-4de1-b921-ba0f16ea2220}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Socks">
+      <UniqueIdentifier>{9c67e181-9f2e-49e8-82f5-dcf6f12639b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Items\Home">
+      <UniqueIdentifier>{d6c5d9e0-a588-4d9f-95c5-1182a13eb1e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Fisherman">
+      <UniqueIdentifier>{6b06512a-d01c-44b7-86d3-ab223248bd51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Fisherman">
+      <UniqueIdentifier>{f0a8009c-0001-4f56-9101-884baa8cdb54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Items\Shiny">
+      <UniqueIdentifier>{8bd3864e-6c44-48b0-9ceb-8909c8f154ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Puzzles">
+      <UniqueIdentifier>{2e0601e4-970a-4b64-8de3-796bd1554cb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Barfly">
+      <UniqueIdentifier>{51bf8deb-ea77-4bf2-a733-ddc8985751d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Puzzles\PuzzleObjects">
+      <UniqueIdentifier>{f154925d-3ae6-4156-856f-935de370e27b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Puzzles\PuzzleObjects\Buttons">
+      <UniqueIdentifier>{bea1e1b6-b0f1-443d-ae27-b50009cb23e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Barfly">
+      <UniqueIdentifier>{2fd0c25a-3357-4516-83d3-abdcf1fab92b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Items\Door">
+      <UniqueIdentifier>{4ff0796a-9f97-4a98-98c4-9ab1f2aeedae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Items\Desk">
+      <UniqueIdentifier>{85c5a644-0ad3-4349-9ef5-9f38ee908824}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Items\Tentacle">
+      <UniqueIdentifier>{2bce8364-c860-4796-acce-67b0bea71bf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Endings">
+      <UniqueIdentifier>{93bc03f5-e8ca-4101-aa43-46ef23e3b386}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Morty">
+      <UniqueIdentifier>{7a73de33-4045-4366-aa8f-dae08ea23c42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogue\Characters\Morty">
+      <UniqueIdentifier>{0b3a0499-1aff-49bd-b15b-c2c3f28381b5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClasses\Input.cpp">
+      <Filter>BaseClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClasses\Animation.cpp">
+      <Filter>BaseClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClasses\GameObject.cpp">
+      <Filter>BaseClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClasses\Level.cpp">
+      <Filter>BaseClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClasses\Collision.cpp">
+      <Filter>BaseClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClasses\GameState.cpp">
+      <Filter>BaseClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClasses\Sound.cpp">
+      <Filter>BaseClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClasses\Music.cpp">
+      <Filter>BaseClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClasses\SoundManager.cpp">
+      <Filter>BaseClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="PACLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCharacter.cpp">
+      <Filter>Source Files\Characters\TestCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cursor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveZone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneDataManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dialogue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shoe.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ShoeDialogue.cpp">
+      <Filter>Source Files\Dialogue\Items\Shoe</Filter>
+    </ClCompile>
+    <ClCompile Include="ShoeText.cpp">
+      <Filter>Source Files\Dialogue\Items\Shoe</Filter>
+    </ClCompile>
+    <ClCompile Include="TestDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="TestText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Dan.cpp">
+      <Filter>Source Files\Characters\Dan</Filter>
+    </ClCompile>
+    <ClCompile Include="DanDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Dan</Filter>
+    </ClCompile>
+    <ClCompile Include="DanText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Dan</Filter>
+    </ClCompile>
+    <ClCompile Include="FishingLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bartender.cpp">
+      <Filter>Source Files\Characters\Bartender</Filter>
+    </ClCompile>
+    <ClCompile Include="BartenderDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Bartender</Filter>
+    </ClCompile>
+    <ClCompile Include="BartenderText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Bartender</Filter>
+    </ClCompile>
+    <ClCompile Include="Drunkard.cpp">
+      <Filter>Source Files\Characters\Drunkard</Filter>
+    </ClCompile>
+    <ClCompile Include="DrunkardDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Drunkard</Filter>
+    </ClCompile>
+    <ClCompile Include="DrunkardText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Drunkard</Filter>
+    </ClCompile>
+    <ClCompile Include="Fish.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Supermarket.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="SupermarketDialogue.cpp">
+      <Filter>Source Files\Dialogue\Items\Supermarket</Filter>
+    </ClCompile>
+    <ClCompile Include="SupermarketText.cpp">
+      <Filter>Source Files\Dialogue\Items\Supermarket</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Nat.cpp">
+      <Filter>Source Files\Characters\Nat</Filter>
+    </ClCompile>
+    <ClCompile Include="NatDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Nat</Filter>
+    </ClCompile>
+    <ClCompile Include="NatText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Nat</Filter>
+    </ClCompile>
+    <ClCompile Include="Enzo.cpp">
+      <Filter>Source Files\Characters\Enzo</Filter>
+    </ClCompile>
+    <ClCompile Include="EnzoText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Enzo</Filter>
+    </ClCompile>
+    <ClCompile Include="EnzoDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Enzo</Filter>
+    </ClCompile>
+    <ClCompile Include="Socks.cpp">
+      <Filter>Source Files\Characters\Socks</Filter>
+    </ClCompile>
+    <ClCompile Include="SocksDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Socks</Filter>
+    </ClCompile>
+    <ClCompile Include="SocksText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Socks</Filter>
+    </ClCompile>
+    <ClCompile Include="Home.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="HomeDialogue.cpp">
+      <Filter>Source Files\Dialogue\Items\Home</Filter>
+    </ClCompile>
+    <ClCompile Include="HomeText.cpp">
+      <Filter>Source Files\Dialogue\Items\Home</Filter>
+    </ClCompile>
+    <ClCompile Include="Fisherman.cpp">
+      <Filter>Source Files\Characters\Fisherman</Filter>
+    </ClCompile>
+    <ClCompile Include="FishermanText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Fisherman</Filter>
+    </ClCompile>
+    <ClCompile Include="FishermanDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Fisherman</Filter>
+    </ClCompile>
+    <ClCompile Include="Shiny.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ShinyDialogue.cpp">
+      <Filter>Source Files\Dialogue\Items\Shiny</Filter>
+    </ClCompile>
+    <ClCompile Include="ShinyText.cpp">
+      <Filter>Source Files\Dialogue\Items\Shiny</Filter>
+    </ClCompile>
+    <ClCompile Include="BasePuzzle.cpp">
+      <Filter>Source Files\Puzzles</Filter>
+    </ClCompile>
+    <ClCompile Include="Barfly.cpp">
+      <Filter>Source Files\Characters\Barfly</Filter>
+    </ClCompile>
+    <ClCompile Include="SlidePuzzle.cpp">
+      <Filter>Source Files\Puzzles</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMap.cpp">
+      <Filter>Source Files\Puzzles\PuzzleObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="BarflyDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Barfly</Filter>
+    </ClCompile>
+    <ClCompile Include="BarflyText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Barfly</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicSquare.cpp">
+      <Filter>Source Files\Puzzles</Filter>
+    </ClCompile>
+    <ClCompile Include="HelpButton.cpp">
+      <Filter>Source Files\Puzzles\PuzzleObjects\Buttons</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="DoorDialogue.cpp">
+      <Filter>Source Files\Dialogue\Items\Door</Filter>
+    </ClCompile>
+    <ClCompile Include="DoorText.cpp">
+      <Filter>Source Files\Dialogue\Items\Door</Filter>
+    </ClCompile>
+    <ClCompile Include="DoorPuzzle.cpp">
+      <Filter>Source Files\Puzzles</Filter>
+    </ClCompile>
+    <ClCompile Include="Desk.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="DeskDialogue.cpp">
+      <Filter>Source Files\Dialogue\Items\Desk</Filter>
+    </ClCompile>
+    <ClCompile Include="DeskText.cpp">
+      <Filter>Source Files\Dialogue\Items\Desk</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuButton.cpp">
+      <Filter>Source Files\Puzzles\PuzzleObjects\Buttons</Filter>
+    </ClCompile>
+    <ClCompile Include="Tentacle.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="TentacleDialogue.cpp">
+      <Filter>Source Files\Dialogue\Items\Tentacle</Filter>
+    </ClCompile>
+    <ClCompile Include="TentacleText.cpp">
+      <Filter>Source Files\Dialogue\Items\Tentacle</Filter>
+    </ClCompile>
+    <ClCompile Include="DrunkEnd.cpp">
+      <Filter>Source Files\Endings</Filter>
+    </ClCompile>
+    <ClCompile Include="Body.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="BadEnd.cpp">
+      <Filter>Source Files\Endings</Filter>
+    </ClCompile>
+    <ClCompile Include="Beast.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="GoodEnd.cpp">
+      <Filter>Source Files\Endings</Filter>
+    </ClCompile>
+    <ClCompile Include="Cutscene.cpp">
+      <Filter>Source Files\Endings</Filter>
+    </ClCompile>
+    <ClCompile Include="ResetButton.cpp">
+      <Filter>Source Files\Puzzles\PuzzleObjects\Buttons</Filter>
+    </ClCompile>
+    <ClCompile Include="Morty.cpp">
+      <Filter>Source Files\Characters\Morty</Filter>
+    </ClCompile>
+    <ClCompile Include="MortyDialogue.cpp">
+      <Filter>Source Files\Dialogue\Characters\Morty</Filter>
+    </ClCompile>
+    <ClCompile Include="MortyText.cpp">
+      <Filter>Source Files\Dialogue\Characters\Morty</Filter>
+    </ClCompile>
+    <ClCompile Include="Credits.cpp">
+      <Filter>Source Files\Endings</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaseClasses\Animation.h">
+      <Filter>BaseClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseClasses\GameObject.h">
+      <Filter>BaseClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseClasses\Input.h">
+      <Filter>BaseClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseClasses\Level.h">
+      <Filter>BaseClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseClasses\Collision.h">
+      <Filter>BaseClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseClasses\GameState.h">
+      <Filter>BaseClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseClasses\Sound.h">
+      <Filter>BaseClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseClasses\Music.h">
+      <Filter>BaseClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseClasses\SoundManager.h">
+      <Filter>BaseClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="PACLevel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TestCharacter.h">
+      <Filter>Source Files\Characters\TestCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cursor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveZone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveDirection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene.h">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneNames.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneDataManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dialogue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterNames.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemNames.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shoe.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ShoeDialogue.h">
+      <Filter>Source Files\Dialogue\Items\Shoe</Filter>
+    </ClInclude>
+    <ClInclude Include="ShoeText.h">
+      <Filter>Source Files\Dialogue\Items\Shoe</Filter>
+    </ClInclude>
+    <ClInclude Include="TestText.h">
+      <Filter>Source Files\Dialogue\Characters\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="TestDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterStates.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DayScenes.h">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Dan.h">
+      <Filter>Source Files\Characters\Dan</Filter>
+    </ClInclude>
+    <ClInclude Include="DanDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Dan</Filter>
+    </ClInclude>
+    <ClInclude Include="DanText.h">
+      <Filter>Source Files\Dialogue\Characters\Dan</Filter>
+    </ClInclude>
+    <ClInclude Include="FishingLevel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NightScenes.h">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Bartender.h">
+      <Filter>Source Files\Characters\Bartender</Filter>
+    </ClInclude>
+    <ClInclude Include="BartenderDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Bartender</Filter>
+    </ClInclude>
+    <ClInclude Include="BartenderText.h">
+      <Filter>Source Files\Dialogue\Characters\Bartender</Filter>
+    </ClInclude>
+    <ClInclude Include="Drunkard.h">
+      <Filter>Source Files\Characters\Drunkard</Filter>
+    </ClInclude>
+    <ClInclude Include="DrunkardDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Drunkard</Filter>
+    </ClInclude>
+    <ClInclude Include="DrunkardText.h">
+      <Filter>Source Files\Dialogue\Characters\Drunkard</Filter>
+    </ClInclude>
+    <ClInclude Include="Fish.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Supermarket.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="SupermarketDialogue.h">
+      <Filter>Source Files\Dialogue\Items\Supermarket</Filter>
+    </ClInclude>
+    <ClInclude Include="SupermarketText.h">
+      <Filter>Source Files\Dialogue\Items\Supermarket</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Nat.h">
+      <Filter>Source Files\Characters\Nat</Filter>
+    </ClInclude>
+    <ClInclude Include="NatDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Nat</Filter>
+    </ClInclude>
+    <ClInclude Include="NatText.h">
+      <Filter>Source Files\Dialogue\Characters\Nat</Filter>
+    </ClInclude>
+    <ClInclude Include="Enzo.h">
+      <Filter>Source Files\Characters\Enzo</Filter>
+    </ClInclude>
+    <ClInclude Include="EnzoText.h">
+      <Filter>Source Files\Dialogue\Characters\Enzo</Filter>
+    </ClInclude>
+    <ClInclude Include="EnzoDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Enzo</Filter>
+    </ClInclude>
+    <ClInclude Include="Socks.h">
+      <Filter>Source Files\Characters\Socks</Filter>
+    </ClInclude>
+    <ClInclude Include="SocksDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Socks</Filter>
+    </ClInclude>
+    <ClInclude Include="SocksText.h">
+      <Filter>Source Files\Dialogue\Characters\Socks</Filter>
+    </ClInclude>
+    <ClInclude Include="Home.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="HomeText.h">
+      <Filter>Source Files\Dialogue\Items\Home</Filter>
+    </ClInclude>
+    <ClInclude Include="HomeDialogue.h">
+      <Filter>Source Files\Dialogue\Items\Home</Filter>
+    </ClInclude>
+    <ClInclude Include="Fisherman.h">
+      <Filter>Source Files\Characters\Fisherman</Filter>
+    </ClInclude>
+    <ClInclude Include="FishermanDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Fisherman</Filter>
+    </ClInclude>
+    <ClInclude Include="FishermanText.h">
+      <Filter>Source Files\Dialogue\Characters\Fisherman</Filter>
+    </ClInclude>
+    <ClInclude Include="Shiny.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ShinyDialogue.h">
+      <Filter>Source Files\Dialogue\Items\Shiny</Filter>
+    </ClInclude>
+    <ClInclude Include="ShinyText.h">
+      <Filter>Source Files\Dialogue\Items\Shiny</Filter>
+    </ClInclude>
+    <ClInclude Include="PuzzleNames.h">
+      <Filter>Source Files\Puzzles</Filter>
+    </ClInclude>
+    <ClInclude Include="BasePuzzle.h">
+      <Filter>Source Files\Puzzles</Filter>
+    </ClInclude>
+    <ClInclude Include="Barfly.h">
+      <Filter>Source Files\Characters\Barfly</Filter>
+    </ClInclude>
+    <ClInclude Include="SlidePuzzle.h">
+      <Filter>Source Files\Puzzles</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap.h">
+      <Filter>Source Files\Puzzles\PuzzleObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="BarflyDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Barfly</Filter>
+    </ClInclude>
+    <ClInclude Include="BarflyText.h">
+      <Filter>Source Files\Dialogue\Characters\Barfly</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicSquare.h">
+      <Filter>Source Files\Puzzles</Filter>
+    </ClInclude>
+    <ClInclude Include="HelpButton.h">
+      <Filter>Source Files\Puzzles\PuzzleObjects\Buttons</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="DoorDialogue.h">
+      <Filter>Source Files\Dialogue\Items\Door</Filter>
+    </ClInclude>
+    <ClInclude Include="DoorText.h">
+      <Filter>Source Files\Dialogue\Items\Door</Filter>
+    </ClInclude>
+    <ClInclude Include="DoorPuzzle.h">
+      <Filter>Source Files\Puzzles</Filter>
+    </ClInclude>
+    <ClInclude Include="DeskDialogue.h">
+      <Filter>Source Files\Dialogue\Items\Desk</Filter>
+    </ClInclude>
+    <ClInclude Include="DeskText.h">
+      <Filter>Source Files\Dialogue\Items\Desk</Filter>
+    </ClInclude>
+    <ClInclude Include="Desk.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuButton.h">
+      <Filter>Source Files\Puzzles\PuzzleObjects\Buttons</Filter>
+    </ClInclude>
+    <ClInclude Include="Tentacle.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="TentacleDialogue.h">
+      <Filter>Source Files\Dialogue\Items\Tentacle</Filter>
+    </ClInclude>
+    <ClInclude Include="TentacleText.h">
+      <Filter>Source Files\Dialogue\Items\Tentacle</Filter>
+    </ClInclude>
+    <ClInclude Include="DrunkEnd.h">
+      <Filter>Source Files\Endings</Filter>
+    </ClInclude>
+    <ClInclude Include="Body.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="BadEnd.h">
+      <Filter>Source Files\Endings</Filter>
+    </ClInclude>
+    <ClInclude Include="Beast.h">
+      <Filter>Source Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="GoodEnd.h">
+      <Filter>Source Files\Endings</Filter>
+    </ClInclude>
+    <ClInclude Include="Cutscene.h">
+      <Filter>Source Files\Endings</Filter>
+    </ClInclude>
+    <ClInclude Include="ResetButton.h">
+      <Filter>Source Files\Puzzles\PuzzleObjects\Buttons</Filter>
+    </ClInclude>
+    <ClInclude Include="Morty.h">
+      <Filter>Source Files\Characters\Morty</Filter>
+    </ClInclude>
+    <ClInclude Include="MortyDialogue.h">
+      <Filter>Source Files\Dialogue\Characters\Morty</Filter>
+    </ClInclude>
+    <ClInclude Include="MortyText.h">
+      <Filter>Source Files\Dialogue\Characters\Morty</Filter>
+    </ClInclude>
+    <ClInclude Include="Credits.h">
+      <Filter>Source Files\Endings</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

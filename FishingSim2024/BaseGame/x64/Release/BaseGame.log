@@ -1,0 +1,319 @@
+﻿  BadEnd.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Level.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'BadEnd.cpp')
+  
+  Barfly.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Barfly.cpp')
+  
+  BarflyDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'BarflyDialogue.cpp')
+  
+  BarflyText.cpp
+  Bartender.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Bartender.cpp')
+  
+  BartenderDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'BartenderDialogue.cpp')
+  
+  BartenderText.cpp
+  Animation.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Animation.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'BaseClasses/Animation.cpp')
+  
+  Collision.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'BaseClasses/Collision.cpp')
+  
+  GameObject.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'BaseClasses/GameObject.cpp')
+  
+  GameState.cpp
+  Input.cpp
+  Level.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Level.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'BaseClasses/Level.cpp')
+  
+  Music.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Music.h(3,10): error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  (compiling source file 'BaseClasses/Music.cpp')
+  
+  Sound.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Sound.h(3,10): error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  (compiling source file 'BaseClasses/Sound.cpp')
+  
+  SoundManager.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Sound.h(3,10): error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  (compiling source file 'BaseClasses/SoundManager.cpp')
+  
+  BasePuzzle.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Sound.h(3,10): error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  (compiling source file 'BasePuzzle.cpp')
+  
+  Beast.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Beast.cpp')
+  
+  Body.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Body.cpp')
+  
+  Character.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Character.cpp')
+  
+  Compiling...
+  Credits.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Level.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Credits.cpp')
+  
+  Cursor.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Cursor.cpp')
+  
+  Cutscene.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Level.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Cutscene.cpp')
+  
+  Dan.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Dan.cpp')
+  
+  DanDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'DanDialogue.cpp')
+  
+  DanText.cpp
+  Desk.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Desk.cpp')
+  
+  DeskDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'DeskDialogue.cpp')
+  
+  DeskText.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'DeskText.cpp')
+  
+  Dialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Dialogue.cpp')
+  
+  Door.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Door.cpp')
+  
+  DoorDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'DoorDialogue.cpp')
+  
+  DoorPuzzle.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Sound.h(3,10): error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  (compiling source file 'DoorPuzzle.cpp')
+  
+  DoorText.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'DoorText.cpp')
+  
+  Drunkard.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Drunkard.cpp')
+  
+  DrunkardDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'DrunkardDialogue.cpp')
+  
+  DrunkardText.cpp
+  DrunkEnd.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Level.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'DrunkEnd.cpp')
+  
+  Enzo.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Enzo.cpp')
+  
+  EnzoDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'EnzoDialogue.cpp')
+  
+  Compiling...
+  EnzoText.cpp
+  Fish.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Fish.cpp')
+  
+  Fisherman.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Fisherman.cpp')
+  
+  FishermanDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'FishermanDialogue.cpp')
+  
+  FishermanText.cpp
+  FishingLevel.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Level.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'FishingLevel.cpp')
+  
+  GoodEnd.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Level.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'GoodEnd.cpp')
+  
+  HelpButton.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'HelpButton.cpp')
+  
+  Home.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Home.cpp')
+  
+  HomeDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'HomeDialogue.cpp')
+  
+  HomeText.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'HomeText.cpp')
+  
+  Item.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Item.cpp')
+  
+  MagicSquare.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Sound.h(3,10): error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  (compiling source file 'MagicSquare.cpp')
+  
+  main.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\main.cpp(4,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Map.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Map.cpp')
+  
+  Menu.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Level.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Menu.cpp')
+  
+  MenuButton.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'MenuButton.cpp')
+  
+  Morty.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Morty.cpp')
+  
+  MortyDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'MortyDialogue.cpp')
+  
+  MortyText.cpp
+  Compiling...
+  MoveZone.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'MoveZone.cpp')
+  
+  Nat.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Nat.cpp')
+  
+  NatDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'NatDialogue.cpp')
+  
+  NatText.cpp
+  NumberButton.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'NumberButton.cpp')
+  
+  PACLevel.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Level.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'PACLevel.cpp')
+  
+  ResetButton.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'ResetButton.cpp')
+  
+  Scene.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Scene.cpp')
+  
+  SceneDataManager.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\SceneData.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'SceneDataManager.cpp')
+  
+  Shiny.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Shiny.cpp')
+  
+  ShinyDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'ShinyDialogue.cpp')
+  
+  ShinyText.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'ShinyText.cpp')
+  
+  Shoe.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Shoe.cpp')
+  
+  ShoeDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'ShoeDialogue.cpp')
+  
+  ShoeText.cpp
+  SlidePuzzle.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Sound.h(3,10): error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  (compiling source file 'SlidePuzzle.cpp')
+  
+  Socks.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Socks.cpp')
+  
+  SocksDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'SocksDialogue.cpp')
+  
+  SocksText.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'SocksText.cpp')
+  
+  Supermarket.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Supermarket.cpp')
+  
+  Compiling...
+  SupermarketDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'SupermarketDialogue.cpp')
+  
+  SupermarketText.cpp
+  Tentacle.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Tentacle.cpp')
+  
+  TentacleDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'TentacleDialogue.cpp')
+  
+  TentacleText.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'TentacleText.cpp')
+  
+  TestCharacter.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'TestCharacter.cpp')
+  
+  TestDialogue.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'TestDialogue.cpp')
+  
+  TestText.cpp
+  TileMap.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\GameObject.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'TileMap.cpp')
+  

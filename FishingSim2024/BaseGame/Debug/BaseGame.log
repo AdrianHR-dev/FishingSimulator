@@ -1,0 +1,134 @@
+﻿  BadEnd.cpp
+  Barfly.cpp
+  BarflyDialogue.cpp
+  BarflyText.cpp
+  Bartender.cpp
+  BartenderDialogue.cpp
+  BartenderText.cpp
+  Animation.cpp
+  Collision.cpp
+  GameObject.cpp
+  GameState.cpp
+  Input.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\Input.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+  Level.cpp
+  Music.cpp
+  Sound.cpp
+  SoundManager.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\SoundManager.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\SoundManager.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\SoundManager.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BaseClasses\SoundManager.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+  BasePuzzle.cpp
+  Beast.cpp
+  Body.cpp
+  Character.cpp
+  Generating Code...
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BartenderText.cpp(67): warning C4715: 'BartenderText::returnCharState': not all control paths return a value
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\BarflyText.cpp(54): warning C4715: 'BarflyText::returnCharState': not all control paths return a value
+  Compiling...
+  Credits.cpp
+  Cursor.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,63): warning C4244:         with
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,63): warning C4244:         [
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,63): warning C4244:             T=float
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,63): warning C4244:         ]
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,43): warning C4244:         with
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,43): warning C4244:         [
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,43): warning C4244:             T=float
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Cursor.cpp(34,43): warning C4244:         ]
+  Cutscene.cpp
+  Dan.cpp
+  DanDialogue.cpp
+  DanText.cpp
+  Desk.cpp
+  DeskDialogue.cpp
+  DeskText.cpp
+  Dialogue.cpp
+  Door.cpp
+  DoorDialogue.cpp
+  DoorPuzzle.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\DoorPuzzle.cpp(109,21): warning C4018: '<': signed/unsigned mismatch
+  DoorText.cpp
+  Drunkard.cpp
+  DrunkardDialogue.cpp
+  DrunkardText.cpp
+  DrunkEnd.cpp
+  Enzo.cpp
+  EnzoDialogue.cpp
+  Generating Code...
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\DrunkardText.cpp(39): warning C4715: 'DrunkardText::returnCharState': not all control paths return a value
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\DanText.cpp(77): warning C4715: 'DanText::returnCharState': not all control paths return a value
+  Compiling...
+  EnzoText.cpp
+  Fish.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,31): warning C4244:         with
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,31): warning C4244:         [
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,31): warning C4244:             T=float
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,31): warning C4244:         ]
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,28): warning C4244:         with
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,28): warning C4244:         [
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,28): warning C4244:             T=float
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\Fish.cpp(86,28): warning C4244:         ]
+  Fisherman.cpp
+  FishermanDialogue.cpp
+  FishermanText.cpp
+  FishingLevel.cpp
+  GoodEnd.cpp
+  HelpButton.cpp
+  Home.cpp
+  HomeDialogue.cpp
+  HomeText.cpp
+  Item.cpp
+  MagicSquare.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\MagicSquare.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Map.cpp
+  Menu.cpp
+  MenuButton.cpp
+  Morty.cpp
+  MortyDialogue.cpp
+  MortyText.cpp
+  Generating Code...
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\FishermanText.cpp(34): warning C4715: 'FishermanText::returnCharState': not all control paths return a value
+  Compiling...
+  MoveZone.cpp
+  Nat.cpp
+  NatDialogue.cpp
+  NatText.cpp
+  NumberButton.cpp
+  PACLevel.cpp
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\PACLevel.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ResetButton.cpp
+  Scene.cpp
+  SceneDataManager.cpp
+  Shiny.cpp
+  ShinyDialogue.cpp
+  ShinyText.cpp
+  Shoe.cpp
+  ShoeDialogue.cpp
+  ShoeText.cpp
+  SlidePuzzle.cpp
+  Socks.cpp
+  SocksDialogue.cpp
+  SocksText.cpp
+  Supermarket.cpp
+  Generating Code...
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\NatText.cpp(489): warning C4715: 'NatText::returnCharState': not all control paths return a value
+  Compiling...
+  SupermarketDialogue.cpp
+  SupermarketText.cpp
+  Tentacle.cpp
+  TentacleDialogue.cpp
+  TentacleText.cpp
+  TestCharacter.cpp
+  TestDialogue.cpp
+  TestText.cpp
+  TileMap.cpp
+  Generating Code...
+C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\BaseGame\TestText.cpp(27): warning C4715: 'TestText::returnCharState': not all control paths return a value
+  BaseGame.vcxproj -> C:\Users\aherr\Desktop\VisualStudio Games\FishingSimRebuild\FishingSim2024\Debug\BaseGame.exe
